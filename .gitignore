@@ -1,5 +1,6 @@
 # Large files
 data_restricted/*
+deliverables/archives_rvsd/*
 *.zip
 
 # Jupyter Notebook
